@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,nextjs,postman,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,nextjs,postman,react,express,github,git,mongodb,nodejs,npm,netlify,ubuntu)]()
 
 <!--
 **kakonbarman/kakonbarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
