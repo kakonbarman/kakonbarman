@@ -39,12 +39,12 @@ I am a passionate **Full-Stack Developer** and **WordPress Specialist** who love
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakonbarman&show_icons=true&theme=radial&hide_border=true" alt="Kakon Barman's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakonbarman&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakonbarman&theme=dark" alt="GitHub Streak" width="90%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakonbarman&theme=react-dark" alt="Activity Graph" width="90%" />
 </div>
 
 ---
