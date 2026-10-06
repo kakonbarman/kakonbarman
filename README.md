@@ -51,6 +51,5 @@ I am a passionate **Full-Stack Developer** and **WordPress Specialist** who love
 
 ### 📫 Connect with Me
 
-- 🌐 **Portfolio**: [webmistri.in](https://webmistri.in)
 - 💼 **LinkedIn**: [in/kakon-barman](https://www.linkedin.com/in/kakon-barman/)
 - 🐙 **GitHub**: [@kakonbarman](https://github.com/kakonbarman)
